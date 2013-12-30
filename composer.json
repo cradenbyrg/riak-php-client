@@ -1,6 +1,6 @@
 {
-    "name": "basho/riak",
-    "description": "Official Riak PHP client for PHP 5.3",
+    "name": "imgembed/riak",
+    "description": "Unofficial Riak PHP client for PHP 5.3",
     "keywords": ["riak", "client", "driver", "database", "nosql"],
     "homepage": "http://basho.com/riak/",
     "license": "Apache-2.0",
